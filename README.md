@@ -1,9 +1,7 @@
 ## Olá! Eu sou o Renan
 
   - 👨‍🎓 Tecnico em informatica
-  - 👨‍💻 Python
-  - 👨‍💻 C 
-  - 👨‍💻 Java
+
  <div>
   <a href="https://github.com/Renanka">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renanka&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
