@@ -13,7 +13,7 @@
   <img align="center" alt="Renan-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Renan-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
-  ![snake gif](https://github.com/Renanka/Renanka/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/Renanka/Renanka/blob/output/github-contribution-grid-snake.svg)
   
 </div>
  
