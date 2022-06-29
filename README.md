@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Renan
 
   - 👨‍🎓 Tecnico em informatica
+  - Estudando sempre
 
  <div>
   <a href="https://github.com/Renanka">
