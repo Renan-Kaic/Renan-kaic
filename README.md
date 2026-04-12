@@ -2,10 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=120&section=header&text=Renan%20Kaic&fontSize=42&fontColor=60a5fa&animation=fadeIn&fontAlignY=38"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=600&lines=Estudante+de+Computa%C3%A7%C3%A3o;Foco+em+backend+e+desenvolvimento+de+software;C%23%2F.NET%2C+Node.js+e+React" alt="Typing SVG" />
-</div>
-
 ---
 
 ## sobre mim
